@@ -5,7 +5,7 @@
       <webServer id="26cff58a-acb4-4f26-8c25-3f347fbb3576" name="laterreestron.de" url="http://www.laterreestron.de">
         <fileTransfer host="ftp.laterreestron.de" port="21" password="dfd8dfc5dfc6dfcfdfcedfc3dfc9dfcf" username="laterreestron.de">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
