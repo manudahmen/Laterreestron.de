@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="laterreestron.de">
+  <component name="PublishConfigData" serverName="laterreestron.de" uploadOnCheckin="cb49def6-4fc5-4225-ad64-f78dc7ef14e3">
     <serverData>
       <paths name="laterreestron.de">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="laterreestron.de" />
   </component>
 </project>
