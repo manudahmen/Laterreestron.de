@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="26cff58a-acb4-4f26-8c25-3f347fbb3576" name="laterreestron.de" url="http://www.laterreestron.de">
-        <fileTransfer host="ftp.laterreestron.de" port="21" password="dfd8dfc5dfc6dfcfdfcedfc3dfc9dfcf" username="laterreestron.de">
+      <webServer id="cb49def6-4fc5-4225-ad64-f78dc7ef14e3" name="laterreestron.de" url="http://ftp.laterreestron.de">
+        <fileTransfer host="ftp.laterreestron.de" port="21" username="laterreestron.de">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

@@ -1,1 +1,3 @@
-DirectoryIndex app/index.html
+Options +Indexes 
+# or #
+IndexIgnore 

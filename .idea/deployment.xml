@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="laterreestron.de" uploadOnCheckin="26cff58a-acb4-4f26-8c25-3f347fbb3576">
+  <component name="PublishConfigData" serverName="laterreestron.de">
     <serverData>
-      <paths name="ibiteria">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="laterreestron.de">
         <serverdata>
           <mappings>
@@ -17,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="laterreestron.de" />
   </component>
 </project>
